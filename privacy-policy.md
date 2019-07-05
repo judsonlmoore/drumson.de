@@ -1,11 +1,12 @@
 ---
-id: 90
 title: Drumson Privacy Policy
-date: 2018-09-12T16:10:34+00:00
+date: 2018-09-12 16:10:34 Z
+id: 90
 author: Judson L Moore
 layout: default
 guid: https://drumson.de/?page_id=90
 ---
+
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://drumson.de (the “Site”).
 
 ## PERSONAL INFORMATION WE COLLECT

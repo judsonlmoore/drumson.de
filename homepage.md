@@ -1,13 +1,15 @@
 ---
-id: 2
 title: Homepage
-date: 2018-08-22T07:14:37+00:00
+date: 2018-08-22 07:14:37 Z
+id: 2
 author: Judson L Moore
-excerpt: Official website of American artist DRUMSON. Find live music videos, concert clips, downloadables, drumless tracks, merchandise, tour dates, and more.
+excerpt: Official website of American artist DRUMSON. Find live music videos, concert
+  clips, downloadables, drumless tracks, merchandise, tour dates, and more.
 layout: default
 guid: https://drumson.de/?page_id=2
-image: /wp-content/uploads/2018/08/drumson-cover-bg.jpg
+image: "/wp-content/uploads/2018/08/drumson-cover-bg.jpg"
 ---
+
 Drumson
 
 American Drummer in Berlin
