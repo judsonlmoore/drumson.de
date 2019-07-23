@@ -2,6 +2,8 @@
 title: Auto Draft
 date: 2019-07-02 21:38:18 Z
 permalink: "/?p=95"
+categories:
+- archive
 id: 95
 author: Judson L Moore
 layout: post
