@@ -2,6 +2,7 @@
 title: Welcome to Jekyll!
 date: 2019-07-03 14:51:30 Z
 categories:
+- archive
 - jekyll
 - update
 layout: post
